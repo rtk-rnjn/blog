@@ -1,0 +1,9 @@
+[submodule "portfolio/themes/hugo-coder"]
+	path = portfolio/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "portfolio/rtk-rnjn.github.io"]
+	path = portfolio/rtk-rnjn.github.io
+	url = https://github.com/rtk-rnjn/rtk-rnjn.github.io
+[submodule "portfolio/public"]
+	path = portfolio/public
+	url = https://github.com/rtk-rnjn/rtk-rnjn.github.io
