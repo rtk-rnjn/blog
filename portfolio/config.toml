@@ -49,15 +49,10 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/rtk-rnjn/"
 [[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/rtk_rnjn/"
 
 # Menu links
 [[menu.main]]
